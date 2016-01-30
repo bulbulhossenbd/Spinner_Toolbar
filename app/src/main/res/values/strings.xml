@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"Spinner "</string>
+
+    <string-array name="spinner_rss_items">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Thailand</item>
+        <item>Dubai</item>
+    </string-array>
+</resources>
